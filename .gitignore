@@ -9,8 +9,8 @@ mochillaUI/.pnp
 /coverage
 
 # production
-mochillaUI/build
-mochillaUI/appConfig.js
+/mochillaUI/build
+/mochillaUI/src/appConfig.js
 
 # misc
 .DS_Store

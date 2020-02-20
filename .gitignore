@@ -10,6 +10,7 @@
 
 # production
 /build
+/mochillaUI/appConfig.js
 
 # misc
 .DS_Store
